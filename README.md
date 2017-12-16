@@ -1,17 +1,6 @@
 # luminate-top-participants
 Wordpress Plugin to get Top Participants via Luminate API
 
-
-=== Luminate Top Participants ===
-Contributors: rchiriboga
-Donate link: https://secure.avon39.org/site/Donation2?df_id=3520&3520.donation=form1&mfc_pref=T
-Tags: shortcodes, 
-Requires at least: 3.5
-Tested up to: 4.4.2
-Requires PHP: 5.6
-Stable tag: trunk
-License: GPLv2 or later
-
 == Description ==
 
 Finally an easy way to show your Blackbaud Luminate Online Top Participants information on your wordpress website.  You can add your top participants, teams and custom participant types using shortcodes. Plugin uses Luminate Online’s API to safely grab that information and give you the power to show it as you wish!
